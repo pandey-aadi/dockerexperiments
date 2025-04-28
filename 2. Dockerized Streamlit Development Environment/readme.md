@@ -118,7 +118,7 @@ You now have a **fully functional Streamlit environment** running inside Docker!
 
 ![Streamlit App Screenshot](https://github.com/pandey-aadi/dockerexperiments/blob/main/2.%20Dockerized%20Streamlit%20Development%20Environment/Images/Screenshot%202025-02-19%20013824.png)
 ![Streamlit App Screenshot](https://github.com/pandey-aadi/dockerexperiments/blob/main/2.%20Dockerized%20Streamlit%20Development%20Environment/Images/Screenshot%202025-02-19%20013835.png)
-![Streamlit App Screenshot](https://github.com/pandey-aadi/dockerexperiments/blob/main/2.%20Dockerized%20Streamlit%20Development%20Environment/Images/Screenshot%202025-02-19%20013853.png?raw=true)
+![Streamlit App Screenshot](https://github.com/pandey-aadi/dockerexperiments/blob/main/2.%20Dockerized%20Streamlit%20Development%20Environment/Images/Screenshot%202025-02-19%20013853.png)
 
 
 💡 **Next Steps:**  

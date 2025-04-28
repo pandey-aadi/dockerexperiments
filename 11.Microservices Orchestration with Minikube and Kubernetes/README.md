@@ -86,7 +86,7 @@ Expose and access the **API Gateway** service:
 minikube service api-gateway
 ```
 This opens a browser with the API Gateway response.
-![img5](https://github.com/vidhi-jaju/DockSpace/blob/34f3d29c5557ad9b4642272bab0635b0ce3eab3b/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes/images/6.png)
+![img5](https://github.com/pandey-aadi/dockerexperiments/blob/main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes/images/5.png?raw=true)
 
 ![img6](https://github.com/vidhi-jaju/DockSpace/blob/34f3d29c5557ad9b4642272bab0635b0ce3eab3b/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes/images/5.png)
 
